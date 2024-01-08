@@ -55,6 +55,7 @@ RLaunch.exe [OPTIONS]
 ```
 
 Available Options
+```bash
 --character-id [ID]: Sets the JX_CHARACTER_ID environment variable.
 --display-name [NAME]: Sets the JX_DISPLAY_NAME environment variable.
 --session-id [ID]: Sets the JX_SESSION_ID environment variable.
@@ -62,6 +63,7 @@ Available Options
 --jdk-path [PATH]: Sets the path to the JDK.
 --vm-args [ARGS]: Sets the virtual machine arguments.
 --help, -h: Displays the help message.
+```
 
 ## Example
 
