@@ -10,6 +10,8 @@
 
 RLaunch is a robust OSRS RuneLite Launcher command-line utility designed to streamline the process of setting up and running Java applications. It simplifies the configuration of environment variables and execution parameters, making it easier to manage Java-based projects.
 
+OSRS Jagex Launcher Launchpad
+
 **RLaunch GUI**
 
 If your not comfortable with command line we went ahead and built a fully functional GUI that allows you to load up any of the popular provider clients such as squire, storm, tribot, and dreambot with a jagex launcher account. You can also load up multiple clients at once from different providers on the same machine with the RLaunchGui. If you have any questions feel free to reach out to our support in our discord server: [Join our Discord server](https://recoderz.org)
