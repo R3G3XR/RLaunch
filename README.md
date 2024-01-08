@@ -12,7 +12,7 @@
 
 # RLaunch
 
-RLaunch is a robust OSRS RuneLite Launcher command-line utility designed to streamline the process of setting up and running Java applications. It simplifies the configuration of environment variables and execution parameters, making it easier to manage Java-based projects.
+RLaunch is a robust OSRS Jagex Launcher command-line utility designed to streamline the process of setting up and running Java applications. It simplifies the configuration of environment variables and execution parameters, making it easier to manage Java-based projects.
 
 OSRS Jagex Launcher Launchpad
 
