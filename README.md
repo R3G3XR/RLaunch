@@ -6,7 +6,7 @@
 |_| \_\_____\__,_|\__,_|_| |_|\___|_| |_|
 ```
 ![image](https://github.com/R3G3XR/RLaunch/assets/155945052/966f72d8-c05d-48b5-8788-40b08cf2fe2c)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FR3G3XR%2FRLaunch&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # RLaunch
 
 RLaunch is a robust OSRS RuneLite Launcher command-line utility designed to streamline the process of setting up and running Java applications. It simplifies the configuration of environment variables and execution parameters, making it easier to manage Java-based projects.
